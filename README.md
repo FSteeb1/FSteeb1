@@ -5,15 +5,22 @@ I'm a **PhD Student** in Psychology based in Argentina. I conduct my research at
 ---
 
 ### 🔭 Current Research & Work
-* **PhD Project:** I am studying Rank Reversal Aversion, [explain what RRA is].
+* **PhD Project:** I am studying **Rank Reversal Aversion**.
+  > *RRA describes the social preference to avoid redistributions that invert pre-established hierarchies between individuals (i.e., making the "richer" person become the "poorer" one), even when such redistribution would reduce overall inequality.*
 * **Teaching:** Lecturer at **Universidad de San Andrés (UdeSA)** for *Behavior Modification & Analysis* and *Cognitive Processes across the Lifespan*.
 * **Communication:** Member of the Communication Committee at the **Argentine Association of Behavioral Sciences (AACC)**.
 
-### [agregar emoji] Interests
-[completar sección]
-Rápidamente al comenzar mi doctorado me encontré y tomé interés en el movimiento de Ciencia Abierta. Desde entonces, gradualmente comencé a incorporar prácticas de Ciencia Abierta y formarme en buenas prácticas en investigación reproducible. Asimismo, comencé a interesarme fuertemente en metaciencia y en comprender cómo mejorar la transparencia y rigurosidad de la investigación en Ciencias del Comportamiento, al igual que robustecer mi formación en estadística, particularmente en lo que refiere a inferencia causal (que también se ha vuelto uno de mis grandes intereses). 
-A la par, durante el transcurso de mi formación me he encontrado con múltiples herramientas provenientes del mundo de Ciencia de Datos que me han resultado de interés y de utilidad para mi labor. Así fue cómo adquirí también un gran interés en Ciencia de Datos y en su aplicación a las ciencias del comportamiento. Actualmente estoy realizando también la Maestría en Ciencia de Datos de la Universidad de Buenos Aires como formación complementaria a la de mi doctorado.
-Por último, adentrarme al mundo de Ciencia Abierta también me condujo a conocer y en ocasiones participar de distintas iniciativas destinadas a promover estas prácticas, como FORRT (Framework for Open and Reproducible Research Training), SIPS (Society for the Improvement of Psychological Science) and PSA (Psychological Science Acceleator). Veo un gran valor en los proyectos de Big Team Science para mejorar la calidad y generalizabilidad de los trabajos en Psicología y Ciencias del Commportamiento y busco activamente colaborar en este tipo de proyectos.
+### 🔎 Interests
+
+* **Open Science & Metascience**
+Early in my PhD, I became interested in the Open Science movement. Since then, I have gradually incorporated open practices and trained in reproducible research standards. This has also led me to develop an interest in metascience, particularly in regards to how we conduct and think about science in Psychology and Behavioral Sciences in general. In turn, this motivated me to strengthen my statistical background, particularly in **Causal Inference**, which has become a major area of interest for me. While nowhere near an expert, I am actively pursuing to better comprehend and apply statistical methods to my research. 
+
+* **Data Science**
+  Throughout my academic training, I discovered various Data Science tools that proved highly useful for my research workflow. This sparked a strong interest in the field and its application to behavioral sciences. Currently, I am pursuing a **Master’s in Data Science at the University of Buenos Aires (UBA)** as complementary training to my PhD, aiming to integrate these methods into my work.
+
+* **Big Team Science**
+  My journey into Open Science led me to connect with and participate in initiatives aimed at promoting these practices, such as **FORRT** (Framework for Open and Reproducible Research Training), **SIPS** (Society for the Improvement of Psychological Science), and the **PSA** (Psychological Science Accelerator). I see immense value in Big Team Science projects for improving the quality and generalizability of research in Psychology, and I actively seek to collaborate in such endeavors.
+* 
 
 ---
 
@@ -22,13 +29,23 @@ Por último, adentrarme al mundo de Ciencia Abierta también me condujo a conoce
 
 ---
 
+### 📚 Current Readings
+* [work in progress]
+
+### 🌟 My Recommendations
+Here are some resources that have shaped my thinking:
+
+#### 📄 Articles & Books
+* **Improving Your Statistical Inferences** by Daniel Lakens.
+
+#### 🧰 Tools & Packages
+* [work in progress]
+
 ### 📫 Let's Connect
-* **LinkedIn:** [Link to your LinkedIn]
-* **Academic Profile:** [Link to Google Scholar or ORCID]
+* **LinkedIn:** [https://www.linkedin.com/in/fernando-steeb-7261ba175/]
+* **Academic Profile:** [https://orcid.org/0009-0001-7707-1486]
 
-![Fer's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=minimal)
-
-
+![Fer's GitHub stats](https://github-readme-stats.vercel.app/api?username=FSteeb1&show_icons=true&theme=minimal)
 
 <!--
 **FSteeb1/FSteeb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

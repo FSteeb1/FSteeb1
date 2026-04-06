@@ -34,15 +34,6 @@ I'm a **PhD Student** in Psychology based in Argentina. I conduct my research at
 ### 📚 Current Readings
 * **[Experimentology: An Open Science Approach to Experimental Psychology Methods](https://experimentology.io/)**
   
-### 🌟 My Recommendations
-Here I will be adding resources that have shaped my thinking and that I find valuable for anyone with similar interests and goals. 
-
-#### 📄 Articles & Books
-* *[Work in progress]*
-
-#### 🧰 Tools & Packages
-* *[Work in progress]*
-
 ---
 
 ### 📫 Let's Connect

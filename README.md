@@ -8,7 +8,6 @@ I'm a **PhD Student** in Psychology based in Argentina. I conduct my research at
 * **PhD Project:** I am studying **Rank Reversal Aversion**.
   > *RRA describes the social preference to avoid redistributions that invert pre-established hierarchies between individuals (i.e., making the "richer" person become the "poorer" one), even when such redistribution would reduce overall inequality.*
 * **Teaching:** Lecturer at **Universidad de San Andrés (UdeSA)** for *Behavior Modification & Analysis* and *Cognitive Processes across the Lifespan*.
-* **Communication:** Member of the Communication Committee at the **Argentine Association of Behavioral Sciences (AACC)**.
 
 ---
 
@@ -23,11 +22,6 @@ I'm a **PhD Student** in Psychology based in Argentina. I conduct my research at
 
 * **Big Team Science.**
   My journey into Open Science led me to connect with initiatives aimed at promoting these practices, such as **[FORRT](https://forrt.org/)** (Framework for Open and Reproducible Research Training), **[SIPS](https://improvingpsych.org/)** (Society for the Improvement of Psychological Science), and the **[PSA](https://psysciacc.org/)** (Psychological Science Accelerator). I see immense value in Big Team Science projects for improving the quality and generalizability of research in Psychology, and I actively seek to collaborate in such endeavors.
-
----
-
-### 🚧 A Note on My Repositories
-> As part of my adoption of Open Science practices, I am beginning to incorporate GitHub into my workflow. You might not see much here yet: I am currently organizing my project repositories to ensure they meet clear and reproducible standards. I will gradually make them public as they become ready.
 
 ---
 
